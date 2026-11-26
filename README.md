@@ -26,6 +26,8 @@ It then outputs machine-readable, Pydantic-validated JSON triage reports that ma
 ![Pillow](https://img.shields.io/badge/imaging-Pillow-2B5B84)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
+link to use streamlit :https://automated-cybersecurity-threat-main.streamlit.app/
+
 ---
 
 ## Project Structure
