@@ -8,7 +8,8 @@ It then outputs machine-readable, Pydantic-validated JSON triage reports that ma
 ---
 
 ## Architecture Diagram
-![Uploading image.png…]()
+<img width="1800" height="1000" alt="image" src="https://github.com/user-attachments/assets/59bcb196-427d-488d-bdbc-04f3a46abe97" />
+
 
 
 ---
