@@ -12,7 +12,7 @@ It then outputs machine-readable, Pydantic-validated JSON triage reports that ma
 
 
 
----
+
 
 ## Technologies Used
 ![Python](https://img.shields.io/badge/python-3.10+-3776AB?logo=python&logoColor=white)
@@ -28,7 +28,7 @@ It then outputs machine-readable, Pydantic-validated JSON triage reports that ma
 
 link to use streamlit :https://automated-cybersecurity-threat-main.streamlit.app/
 
----
+
 
 ## Project Structure
 * `step1_system_prompt.py`: Global security baselines, operational boundaries, and MITRE ATT&CK taxonomy alignment.
