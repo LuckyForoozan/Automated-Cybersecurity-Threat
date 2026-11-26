@@ -58,7 +58,7 @@ MODEL_NAME = "openai/gpt-oss-120b"
 
 # Page layout configuration
 st.set_page_config(page_title="Prompt Anatomy Pipeline Viewer", layout="wide")
-st.title("🛡️ SecOps Prompt Anatomy Pipeline Viewer")
+st.title("🛡️ Automated Cybersecurity Threat & Incident Log Auditor")
 st.caption("Interact with each Prompt Anatomy component, edit instructions live, and run audits against Groq.")
 
 # ==============================================================================
