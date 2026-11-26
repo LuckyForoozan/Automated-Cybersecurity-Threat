@@ -1,11 +1,11 @@
 # Automated Cybersecurity Threat & Incident Log Auditor
 
-## Overview
+**Overview**
 This project provides an automated, AI-driven cybersecurity auditing pipeline that intercepts multi-source server logs and real-time user prompts.  
 It applies rigorous prompt engineering principles—including analyst role definition, domain context grounding, XML formatting, and hard negative constraints—to evaluate threats accurately.  
 It then outputs machine-readable, Pydantic-validated JSON triage reports that map attacker behaviors to the MITRE ATT&CK framework while guaranteeing 100% secret redaction and safe containment actions.
 
-
+--------------------------
 
 ## Architecture Diagram
 <img width="1800" height="1000" alt="image" src="https://github.com/user-attachments/assets/59bcb196-427d-488d-bdbc-04f3a46abe97" />
