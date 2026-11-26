@@ -23,8 +23,7 @@ It then outputs machine-readable, Pydantic-validated JSON triage reports that ma
 ![Pydantic](https://img.shields.io/badge/validation-Pydantic-E92063?logo=pydantic&logoColor=white)
 ![dotenv](https://img.shields.io/badge/config-python--dotenv-ECD53F?logo=dotenv&logoColor=black)
 ![Pillow](https://img.shields.io/badge/imaging-Pillow-2B5B84)
-
-link for streamli >>>[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
 ---
 
